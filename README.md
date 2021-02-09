@@ -1,2 +1,2 @@
-# Vaddin-Shiro
+# Vaadin-Shiro
 Login Test
